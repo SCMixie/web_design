@@ -1,0 +1,23 @@
+body {
+	background-color: #99e6e6;
+}
+
+
+
+
+.seventy-wide {
+	background-color: #248f8f;
+	color: #051414;
+	height: 600px;
+	margin: 0 auto;
+	width: 70%;
+
+}
+
+.fifty-wide {
+	background-color: aliceblue;
+	color: #051414;
+	height: auto;
+	margin: 0 auto;
+	width: 50%;
+}
