@@ -1,8 +1,10 @@
-h1 {
-	color: aliceblue;
-}
-
 body {
 	background-color: cornflowerblue;
-	color: antiquewhite;
+}
+
+.container {
+	background-color: antiquewhite;
+	width: 1200px;
+	margin: 0 auto 80px auto;
+	padding: 20px;
 }
